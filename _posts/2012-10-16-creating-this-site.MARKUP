@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Creating this site using github and jekyll"
+
+categories:
+- jekyll
+- diy
+---
+
+This started with me trying to do philosophy homework which you can see is the only other blog post created on October 16th.
+
+So I was trying to figure out how to easily use a more lightweight markup language instead of using latex for simple philosphy notes which require compiling and all that crap.
+And I started researching about markup, which is also for some reason supported on the Epistle editor on my Android phone. 
+Ok, then I suddenly remembered hearing about static site generators. I had heard about them before. Apparently, the cs17 sites are generated like that based on a xslt framework written by Andrew Ayers from a while ago.
+I had head about it before but I refound Jekyll. Jekyll isn't supposed to be better but it is more user-friendly than xslt because it allows markup languages which is what I'm using to type up this post right now.
+Not to mention that Github supports Jekyll.
+
+This is like a dream come true for me. Fuck philosophy homework. 
+Here are the benefits on using Jekyll and Github:
+* Jekyll allows one to write posts in a variety of Markup languages. (We get all the benefits of markup languages)
+* Jekyll compiles this to static html so we can still do a lot of styling (We get all the benefits of HTML and CSS)
+* Github supports it which means publishing a post is as easy as git push
+* Free hosting. The site is automatically displayed at username.github.com/projectname
+
+I was sold so I quickly started my quest at 11pm. Sure, it was a terrible decision.
+
+I quickly ssh-ed into my dorm machine. Installed ruby and jekyll using [these instructions](https://github.com/mojombo/jekyll/wiki/install)
+
+Then, this is a little bit annoying but you either have to create a repo called username.github.com and put your stuff in the master branch.
+
+Or you have to create a repo called projectname and put your Jekyll stuff in the gh-pages branch. This is the only way Github knows whether to compile it or not.
+
+Getting the right branches is a little finicky. git branch, git branch -d master will be useful commands. -d means delete
+They talk about that stuff [here](https://help.github.com/articles/user-organization-and-project-pages)
+
+So inside your repo on your gh-pages branch, you want to create the typical Jekyll folder with the structure outlined [here](https://github.com/mojombo/jekyll/wiki/usage).
+
+You also have to change some of the configuration parameters inside _config.yaml to the ones [Github wants](https://help.github.com/articles/using-jekyll-with-pages)
+
+Then, try to compile offline using this command '$ jekyll --pygments --no-lsi --safe'. This will help debug
+push, then you have your site ready.
+
+Now to populate the site with posts:
+ArchLinux wiki had a good [entry](https://wiki.archlinux.org/index.php/Jekyll#Create_Post_Layout) giving you a very simple template to help you get started
+
+If you copy that, you'll be ok, minus one little thing which is the baseurl.
+In your _config.yaml file, do this 
+baseurl: projectname/
+
+And add {{site.baseurl}} right before {{post.url}} in your index.html file
+
+Push. You're almost there. Now just read up on
+YAML Front matter to know what you variables you can use.
+[Templte data](https://github.com/mojombo/jekyll/wiki/Template-Data)
+[YAML](https://github.com/mojombo/jekyll/wiki/yaml-front-matter)
+[Permalinks](https://github.com/mojombo/jekyll/wiki/Permalinks)
+
+And then, start your first post like me like [him as well](http://alexyoung.org/2009/07/09/new-blog/)
+
+What's really awesome about this is that you can use all your offline code editors, and all your command line tools and still have pretty visuals if you put in the time to make it work.
