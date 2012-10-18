@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="author" content="Jason Shum" />
+    <title>Jason Shum's blog: questions about python tuples from x86</title>
+  </head>
+  <body>
+    <header>
+      <h3><a href="/blog">back</a></h3>
+    </header>
+    <section>
+      <div class="content">
+  <div id="post">
+	questions about python tuples from x86
+    	i&#39;ve done quite a bit of x86 assignments lately in prepration for TA-ing cs33<br />one convention that i observed a lot was the return value is always placed in %eax.<p />but i was thinking of how python passes back tuples.<br /> there are no primitive data types in python. all &quot;primitive data types&quot; in python are  first class objects so it must be the case that they use some wrapper object to put both values inside so that the return value is actually only one memory address.<br /> (but now i also wonder if there are languages where you pass back tuples in a way where the caller function checks two registers or something like that. it&#39;s easy to implement in assembly but the question is is it done at all?)<p /> i also wondered why we never see pointers in higher level languages like java, python. and i realized that when you have objects, you don&#39;t need to pass by reference anymore, as you do in C, because an object is basically an address that can contain an arbitrary amount of information.
+
+  </div>
+</div>
+      
+
+    </section>
+  </body>
+</html>
+
