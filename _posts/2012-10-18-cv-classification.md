@@ -9,15 +9,15 @@ Our resume gets feed into a database and then we return as results if our cv con
 
 CV classification
 software engineers:
-	* strong skillset
-	* relevant set of experiences. course project or otherwise
+* strong skillset
+* relevant set of experiences. course project or otherwise
 
 product manager
-	* experience working with users or leading projects
+* experience working with users or leading projects
 
 data scientist
-	* strong math background
-	* working with large datasets and complex algorithms
+* strong math background
+* working with large datasets and complex algorithms
 
 Pepole have told me that you should put more about your experiences than your courses. 
 It seems somewhat unintuitive that courses that you spend 9 months out of a year on are less important than the 3 months you spend as a part time summer emloyee. 
