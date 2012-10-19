@@ -22,7 +22,7 @@ title:
 	<div class="pagination">
 	  {% if paginator.previous_page %}
 		{% if paginator.previous_page == 1 %}
-		<a href="/">Previous</a>
+		<a href="/{{site.baseurl}}">Previous</a>
 		{% else %}
 		<a href="{{site.baseurl}}/page{{paginator.previous_page}}">Previous</a>
 		{% endif %}
