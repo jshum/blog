@@ -3,21 +3,21 @@ layout: post
 title: CV
 ---
 
-Unfortunate that after four years, we're back into this rat race agian, trying to cram all of our four years of college courses and summer internships into a page work of information.
+Unfortunate that after four years, we're back into this rat race agian, trying to cram all of our four years of college courses and summer internships into a page worth of information.
 
-We get feed into a database and then a computer returns if our cv contains certain keywords that the employer uses.
+Our resume gets feed into a database and then we return as results if our cv contains certain keywords that the company is looking for.
 
 CV classification
 software engineers:
-* strong skillset
-* relevant set of experiences. course project or otherwise
+	* strong skillset
+	* relevant set of experiences. course project or otherwise
 
 product manager
-* experience working with users or leading projects
+	* experience working with users or leading projects
 
 data scientist
-* strong math background
-* working with large datasets and complex algorithms
+	* strong math background
+	* working with large datasets and complex algorithms
 
 Pepole have told me that you should put more about your experiences than your courses. 
 It seems somewhat unintuitive that courses that you spend 9 months out of a year on are less important than the 3 months you spend as a part time summer emloyee. 
