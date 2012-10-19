@@ -3,7 +3,7 @@ auto:        false
 server:      false
 server_port: 4000
 baseurl:    /blog
-url: http://localhost:4000
+url: http://jshum.github.com/blog
 
 source:      .
 destination: ./_site
@@ -14,6 +14,7 @@ lsi:         false
 pygments:    true 
 markdown:    maruku
 permalink:   date
+pagination: 10
 
 maruku:
   use_tex:    false
