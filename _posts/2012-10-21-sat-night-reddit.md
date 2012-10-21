@@ -1,3 +1,9 @@
+---
+layout: post
+title: phil54
+---
+{% include JB/setup %}
+
 The reason why we shouldn't have eugenics or any thoughts like that
 http://scienceblogs.com/pharyngula/2007/05/08/there-are-no-marching-morons/
 
@@ -21,3 +27,5 @@ http://www.reddit.com/r/self/comments/afgg1/how_do_you_make_yourself_feel_better
 
 there's an increasing number of ideas and posts about the problems of class, or the increasing evidence of class, decreased mobility between social classes, and how that is a bad thing for everyone involved.
 i see that in my privileged expensive private university here. that is a growing problem
+
+
