@@ -1,11 +1,8 @@
 ---
 layout: post
 title: "Creating this site using github and jekyll"
-
-categories:
-- jekyll
-- diy
 ---
+{% include JB/setup %}
 
 {{post.title}}
 

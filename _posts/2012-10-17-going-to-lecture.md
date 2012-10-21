@@ -2,6 +2,7 @@
 layout: post
 title: Going to lecture
 ---
+{% include JB/setup %}
 
 http://americanradioworks.publicradio.org/features/tomorrows-college/lectures/rethinking-teaching.html
 

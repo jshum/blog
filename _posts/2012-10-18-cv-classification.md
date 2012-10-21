@@ -2,6 +2,7 @@
 layout: post
 title: Resumes
 ---
+{% include JB/setup %}
 
 Unfortunate that after four years, we're back into this rat race agian, trying to cram all of our four years of college courses and summer internships into a page worth of information.
 
