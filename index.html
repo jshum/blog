@@ -34,9 +34,9 @@ title: spewing thoughts
       <ul>
 	{% if paginator.previous_page %}
 		{% if paginator.previous_page == 1 %}
-     	<li class="prev"><a href="{{site.baseurl}}/">&larr; Previous</a></li>
+     	<li class="prev"><a href="{{ BASE_PATH }}/">&larr; Previous</a></li>
 	      {% else %}  
-        	<li class="prev"><a href="{{site.baseurl}}/page{{paginator.previous_page}}">&larr; Previous</a></li>
+        	<li class="prev"><a href="{{ BASE_PATH }}/page{{paginator.previous_page}}">&larr; Previous</a></li>
 
 	      {% endif %}
 	{% else %}
@@ -44,7 +44,7 @@ title: spewing thoughts
 	{% endif %}
         <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
       {% if paginator.next_page %}
-        <li class="next"><a href="{{site.baseurl}}/page{{paginator.next_page}}">Next &rarr;</a></li>
+        <li class="next"><a href="{{ BASE_PATH }}/page{{paginator.next_page}}">Next &rarr;</a></li>
       {% else %}
         <li class="next disabled"><a>Next &rarr;</a>
       {% endif %}
