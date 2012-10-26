@@ -1,0 +1,27 @@
+---
+layout: post
+title: "What I think I want to do"
+---
+
+As I've said before, you have to try things to figure our what you want to do.
+[it-knows]:http://www.lrb.co.uk/v33/n19/daniel-soar/it-knows
+After doing two interviews and listening to different people talk about their jobs, and reading [this article][it-knows] last night. I think I have some new thoughts.
+
+The gist of what everyone seems to be saying now is that we're moving into the age of data. And it's no longer a side thing. It's the focus of things.
+
+I am biased but sometimes I think it's weird that programming is not a required skill to learn. Let alone that, how about just an intuition for and the skill to manipulate data. I think it's unfortunate that people don't understand the extent to which their lives are being tracked now. We have become data points.
+
+[wired]: http://www.wired.com/magazine/2011/12/ff_causation/
+And [it doesn't matter that correlation is not causation][wired], because we're just data points. Do we truly have to find out why people who search for Frank Sinatra also often search for cheap laster printers? No, there's too many relationships. In fact, we just need correlations. Many of these correlations are not important enough that we need to or should spend time trying to understand. (coal to all these consumer behavior research firms out there. Spend your intellectual capital doing something more useful, please)
+
+[tr-big-problems]:http://www.technologyreview.com/featuredstory/429690/why-we-cant-solve-big-problems/
+We are also in a bit of a dip. [We are not solving big problems anymore][tr-big-problems]. We are solving all these petty little toy problems that aren't changing our lives. 
+
+With those two thoughts in mind, I sincerely beleive that automation and computation improves our lives. And I want to approach big problems in this manner. I would like to be the software architect behind Telsa's software system powering the supercharger stations. I would like to be the software architect behind GE's distributed system for controlling wind mills.
+
+So I want to learn how to build robust systems whose main function is to collect data and improve itself based on that data. Sounds a lot like the mainframe in iRobot. I'm contributing to the singularity. It's scary but it is coming. 
+
+
+
+
+  
