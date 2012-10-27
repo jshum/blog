@@ -14,9 +14,9 @@ Here are more. Some of these are simply corollaries of the above, but perhaps th
 [american-dream]: http://www.reddit.com/r/atheism/comments/108a46/so_i_was_at_burger_king_tonight/c6bb33t
 
 * Chances are that you won't be successful, smart, famous, rich or attractive. (Not that these should be indcators of success but this seems to be the conventional set the world uses). This means that don't live your life trying to become what other people want you to be. Live it the way you want.
+* Get a personality. Don't be part of the mob. Figure out what you like and don't like.   
 * You're not a self-made person. You are the result of your family, government, the time you're born in. You owe it to the world for any modicum of success you have. You're forever in debt to them. So give back. Don't have any illusion of entitlement or the American dream. [The american dream is based on certain assumptions that aren't true][american-dream]
 * You won't know and you can't know what the future will be. You have to try out different things before you know what you want to do. Spend your 20s trying different things. - [Bret Victor][bret-victor-video]
-
 
 
 

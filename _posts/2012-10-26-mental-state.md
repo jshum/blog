@@ -32,3 +32,4 @@ The ones who did have it had kids and passed the trait on to them. So the humans
 
 But if we are to live, why live it without purpose? The argument is that there is an argument for the sake of an argument. We're not proving the assumption. We're just using the assumption.
 
+We have choice over what we find meaingful. And because we decide our lives. We can change our lives to whatever we 'find is meanginful'.
