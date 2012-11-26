@@ -5,7 +5,7 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "sitemap.txt"]
 auto: true
 pygments: true
-paginate: 3
+paginate: 5
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -98,11 +98,11 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : google 
+    provider : getclicky
     google : 
-        tracking_id : ''
+        tracking_id : 
     getclicky :
-      site_id : 
+      site_id : 5c5f0e5c61e79781
     mixpanel :
         token : '_MIXPANEL_TOKEN_'
 

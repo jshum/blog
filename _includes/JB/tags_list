@@ -17,6 +17,10 @@ Usage:
   This helper can be seen in use at: ../_layouts/default.html
 -->{% endcomment %}
 
+{% comment %}<!--
+   remove all the posterous ones
+-->{% endcomment %}
+
 {% if site.JB.tags_list.provider == "custom" %}
   {% include custom/tags_list %}
 {% else %}
@@ -26,7 +30,9 @@ Usage:
     {% endfor %}
   {% else %}
     {% for tag in tags_list %} 
+	{% unless tag[0] == 'posterous' %}
     	<li><a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}-ref">{{ tag[0] }} <span>{{ tag[1].size }}</span></a></li>
+	{% endunless %}
     {% endfor %}
   {% endif %}
 {% endif %}
