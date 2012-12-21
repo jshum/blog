@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "your place in the world"
+title: "fortran vs lisp paradigms"
 description: ""
 category: 
 tags: [cs, theory of knowledge, math, algorithms]
@@ -40,3 +40,6 @@ I'm probably a little biased after reading [this article about the pitfalls of l
 And I did just come out of an applied math exam which I don't think I did too well on and I'm trying
 to convince myself to take more pure math classes. 
 
+But from taking programming langauges this semester, I understand it is also essential for there to be advancement on the
+programming langauges side. Type systems, garbage collection are essential for improving computer science
+for it's own sake. This is why we don't write code in assembly anymore. We moved on for obvious reasons.
