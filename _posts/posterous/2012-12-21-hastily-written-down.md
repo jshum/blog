@@ -3,7 +3,7 @@ layout: post
 title: "hastily written down"
 description: ""
 category: 
-tags: [paper, uncollected, thoughts, cs,posterous]
+tags: [paper, uncollected, thoughts, cs, posterous]
 ---
 
 Sheets 1
