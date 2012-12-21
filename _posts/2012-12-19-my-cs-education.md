@@ -16,7 +16,6 @@ And the more I thought about it, the more I realized it wasn't the world where w
 on our phone. It wasn't the where I could change the volume of my speakers in the living room with my phone.
 
 [2]: http://vimeo.com/55073825
-[3]: {% link 2012-12-17-fortran-lisp-paradigm %}
 
 Echoing my last post, and after watching [this video about the overview effect on vimeo][2],I think it now obvious that 
 I need to do something more than just assigning values to variables.
@@ -25,7 +24,7 @@ not a subject matter in itself.
 I need to learn about science and mathematics. 
 The world I want to contribute to is the one where there is no hunger, no more children dying because of malnutrition,
 poverty and lack of medical attention. To do that requires something a little more than assigning values to names followed
-by semicolons, [...][3]
+by semicolons, 
 
 cs051 
 to show something is non-context free. remember to consider every single case.
