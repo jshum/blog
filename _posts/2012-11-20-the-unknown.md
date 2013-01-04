@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "The Unknown"
+title: "Turning the unpredictable into controllable"
+tldr: "a simple theory of the trajectory of human advancement, slowly reducing the uncertainty in our lives, from control over the physical world to control over our inner mental worlds."
+tags: [pattern matching, randomness, advancement, science]
 ---
 
 Think about your daily routine for a moment.

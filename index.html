@@ -11,7 +11,12 @@ title: spewing thoughts
 </div>
 <div class="row">
   <div class="span8">
-    {{ post.content }}
+   {{ post.content }}
+
+	{% if post.tldr %}
+	<br><b>TL;DR</b>&nbsp; <i>{{ post.tldr }}</i>
+	{% endif %}
+
   <hr>
   </div>  
   <div class="span4">

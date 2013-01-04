@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Creating this site using github and jekyll"
+tldr: "A guide on the resources I used and the basic commands you need to write a blog using jekyll."
+tags: [jekyll, blog, github, DIY, how to]
 ---
-{% include JB/setup %}
-
-{{post.title}}
 
 This started with me trying to do philosophy homework which you can see is the only other blog post created on October 16th.
 
@@ -50,7 +49,7 @@ If you copy that, you\'ll be ok, minus one little thing which is the baseurl.
 In your \_ config.yaml file, do this 
 baseurl: projectname/
 
-And add {{site.baseurl}} right before {{post.url}} in your index.html file
+And add \{\{ site.baseurl \}\} right before \{\{ post.url \}\} in your index.html file
 
 Push. You\'re almost there. Now just read up on
 YAML Front matter to know what you variables you can use.

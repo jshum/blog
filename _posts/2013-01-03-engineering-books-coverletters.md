@@ -1,24 +1,24 @@
 ---
 layout: post
 title: "Engineering Books, Coverletters"
-description: ""
-category: 
-tags: [engineering, cs, books]
+tldr: "Links about which engineering books to read, and tips on how to write a cover letter for a software engineering job"
+tags: [engineering, cs, google, cover letter, jobs, resume, books]
 ---
 
-**Engineering books**
+**Engineering books**  
 http://www.eng.cam.ac.uk/admissions/information/reading.html
-A Beginner's Guide by Natasha McCarthy
-Flying Buttresses, Entropy and O-Rings: The World of an Engineer by James L Adams
-anything by Henry Petroski
-The Existential Pleasures of Engineering by Samuel C Florman
+* A Beginner's Guide by Natasha McCarthy
+* Flying Buttresses, Entropy and O-Rings: The World of an Engineer by James L Adams
+* anything by Henry Petroski
+* The Existential Pleasures of Engineering by Samuel C Florman
 
 http://blog.prof.so/2011/09/top-ten-best-engineering-books.html
-The Soul of a New Machine by Tracey Kidder
-The Psychology of Everyday Things by Donald A Norman
+* The Soul of a New Machine by Tracey Kidder
+* The Psychology of Everyday Things by Donald A Norman
 
 **How to write a software engineering cover letter**
 http://news.ycombinator.com/item?id=1783915
+
    1. Write like you speak, as if told over coffee or beer.
    2. Informal, but not too casual.
    3. Right to the point; the first sentence is your summary.
@@ -43,5 +43,7 @@ http://ofb.net/~niniane/resume_howto.html
 
 http://philipjr.blogspot.com/2010/05/interviewing-with-googliness.html
 
-Goo·gl·i·ness (gōō'gəl'i·nɪs) n. 1. The stuff you’re passionate about 2. The characteristics that make you interesting
+Goo·gl·i·ness (gōō'gəl'i·nɪs) n.  
+1. The stuff you’re passionate about 
+2. The characteristics that make you interesting  
 Synonyms: out-of-box creativeness, well-roundedness, world-changing ambition, profound quirkiness

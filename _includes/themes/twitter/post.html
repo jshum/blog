@@ -5,6 +5,11 @@
 <div class="row">
   <div class="span8">
     {{ content }}
+
+    {% if page.tldr %} 
+    <br><b>TL;DR</b>&nbsp; <i>{{ page.tldr }}</i><br><br>
+    {% endif %}
+
     <div class="pagination">
       <ul>
       {% if page.previous %}

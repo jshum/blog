@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Guide on how to spend your time."
-description: ""
-category: 
-tags: []
+tldr: "The difference between a task-oriented practical programmer and a find solutions to hard problems computer scientist. Between ruthless efficiency and drunk passion and its uses in life."
+tags: [programmer, computer scientist, time, expertise]
 ---
 
 I've been working with Spencer on our programming languages final project for over two months now.
@@ -16,7 +15,7 @@ NOTE: For the CS majors who are reading this, I know these two constructs are ve
 
 A programmer's project comes with a spec and a deadline. The programmer's job is to write code that behaves as specified in the spec by that certain deadline. 
 
-A computer scientist's project comes with a question and the objective is to come up with a general and robust model/system that correctly generates different types of behavior. It might require a lot of different approaches and implementations before the right one is found because of the many factors to weigh each time. There's no concern about time constraints because the purpose is to get the best model possible.  
+A computer scientist's project comes with a question and the objective is to come up with a general and robust model/system that correctly generates different types of behavior. It might require a lot of different approaches and implementations before the right one is found because of the many factors to weigh each time. There's no concern about time constraints because the purpose is to get the best model possible.
 
 There's a lot of 'ethical' questions that come up here. Programmers should take shortcuts to finish their task as long as it behaves as the spec tells it to. Programmers worry a lot less about correctness than about its superficial behavior. Everything could explode any moment internally but if it looked ok to the world, it's ok.
 

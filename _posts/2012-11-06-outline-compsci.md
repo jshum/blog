@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "outline comp sci"
+title: "outline computer science talk"
+tags: [cs, outline, talk]
 ---
 
 * why computers are good

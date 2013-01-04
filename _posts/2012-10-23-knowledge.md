@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Analogies of knowledge"
+tldr: "the importance of the language when studying something"
+tags: [language, cs, epistemology, knowledge]
 ---
 
 I've been taking two mathy but not math classes this semester. A computer science class, Models of Computation, which is our theoretical cs on computatbility theory class, and 

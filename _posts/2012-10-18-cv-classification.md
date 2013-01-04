@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Resumes
+tldr: "how to tweak your resume for the keywords that different positions look for. A little rant about getting selected for some coveted position again based on weird metrics"
+tags: [cs, resume, internship, admission]
 ---
 {% include JB/setup %}
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "how to learn"
+tldr: "thoughts on academic leanring. how to lern through doing problem sets. balancing your desire to learn the material and your desire t spend that time elsewhere"
+tags: [learning, problem sets, academic]
 ---
 
 Even though I've been in college for two years, I'm still learning how to learn.

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "intro cs reasons"
+tldr: "Perspective on choosing Java for intro computer science classes from PL"
+tags: [scope, python, java, programming languages]
 ---
 
 Learning happens very organically. Curriculum largely decides what you are supposed to learn but what you actually remember/learn differs from person to person.

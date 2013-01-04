@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "sat morning"
+tldr: "my desire to learn and succeed academically trumps everything else. Another reason being I can't think of anything else when I get fixated. I get stubborn easily."
+tags: [stubborn, academics, college, work, fixated]
 ---
 
 I know it's completely wrong to approach college like this. To only worry about work, to schedule my life around work but I can't do anything else. I can't enjoy the moment. I don't know how.

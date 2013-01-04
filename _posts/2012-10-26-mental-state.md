@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "mental state"
+tldr: "My arguments for both how life is meaningless and meaningful. There is no reason for our existence but we can ascribe meaning to it"
+tags: [meaning, debate]
 ---
 
 I'm always teetering between maniac depression and complete motivation.

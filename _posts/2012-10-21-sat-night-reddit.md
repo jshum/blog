@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Sat Night Reddit"
+tldr: "some links and my ideas on why society/government/environment are much more important than genetics in terms of intelligence. how our world is polarizing and some assumptions that are no longer true."
+tags: [world, intelligence, environment, society, nurture]
 ---
 {% include JB/setup %}
 

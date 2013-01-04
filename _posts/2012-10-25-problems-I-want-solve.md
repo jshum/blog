@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "What I think I want to do"
+tldr: "I believe that data and computer science will solve many problems. but people need to learn computation."
+tags: [cs, data]
 ---
 
 As I've said before, you have to try things to figure our what you want to do.
@@ -20,8 +22,3 @@ We are also in a bit of a dip. [We are not solving big problems anymore][tr-big-
 With those two thoughts in mind, I sincerely beleive that automation and computation improves our lives. And I want to approach big problems in this manner. I would like to be the software architect behind Telsa's software system powering the supercharger stations. I would like to be the software architect behind GE's distributed system for controlling wind mills.
 
 So I want to learn how to build robust systems whose main function is to collect data and improve itself based on that data. Sounds a lot like the mainframe in iRobot. I'm contributing to the singularity. It's scary but it is coming. 
-
-
-
-
-  

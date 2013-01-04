@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "What to do with computer science"
+tldr: "this was an early draft of a speech I was to make at my high school about computer science and college. I talk about computer science being about representing information and how to manipulate it using algorithms. And I give a very personal view of the size your ego needs to be to survive"
+tags: [life, advice, cs, opinion, speech]
 ---
 
 here is the prompt:

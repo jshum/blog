@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "thanksgiving"
-tag: 
-- friends
-- advice
+tldr: "friends become experts on yourself when you grow old together. they may not understand exactly but they know you enough to give you sound advice"
+tags: [friends, advice]
 ---
 
 This thanksgiving, I elected to spend it in Washington DC with my dear friend Ian.

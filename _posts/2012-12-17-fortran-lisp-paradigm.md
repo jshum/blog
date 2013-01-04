@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "fortran vs lisp paradigms"
-description: ""
-category: 
-tags: [cs, theory of knowledge, math, algorithms]
+tldr: "A little rant about why learning the lambda calculus way of learning programming isn't as useful as the scientific fortan way."
+tags: [cs, theory of knowledge, math, algorithms, theory of computation, lambda calculus, science]
 ---
 
 Some notes on math and computer science:
