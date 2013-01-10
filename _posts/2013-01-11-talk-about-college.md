@@ -5,7 +5,7 @@ tldr: "a short reflection on the talk I gave at CDNIS about applying to college 
 tags: [education, high school, college, writing, speech, public speaking]
 ---
 
-I spoke a few months ago about giving a talk to high school students at my alma mater, CDNIS.
+I spoke a few months ago about giving a talk to high school students at my alma mater, CDNIS.  
 I gave that talk today. I talked about applying to colleges and the things to consider when you're going to college.
 
 [1]: http://jshum.github.com/blog/2013/01/10/cdnis-talk/
