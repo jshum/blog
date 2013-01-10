@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "cdnis talk"
-tldr: "CDNIS talk"
+tldr: "The contents of a speech I gave to CDNIS on Jan 10th about applying and going to college.""
 tags: [education, college, university, attitude, mentality]j
 ---
 
