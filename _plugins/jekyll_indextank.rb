@@ -51,9 +51,9 @@ module Jekyll
       
       items.each do |item|              
         page_text = extract_text(site,item)
-
         @index.document(item.absolute_url).add({ 
           :text => page_text,
+          :url => item.url,
           :title => item.data['title'] || item.name 
         })
         puts 'Indexed ' << item.absolute_url

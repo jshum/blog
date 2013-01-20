@@ -21,7 +21,36 @@
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-  -->
+    -->
+
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="assets/indextank-jquery/jquery.indextank.ize.js"></script>
+        <script type="text/javascript" src="assets/indextank-jquery/jquery.indextank.autocomplete.js"></script>
+        <script type="text/javascript" src="assets/indextank-jquery/querybuilder.js"></script>
+        <script type="text/javascript" src="assets/indextank-jquery/jquery.indextank.ajaxsearch.js"></script>
+        <script type="text/javascript" src="assets/indextank-jquery/jquery.indextank.renderer.js"></script>
+        <script type="text/javascript" src="assets/indextank-jquery/jquery.indextank.instantsearch.js"></script>
+        <link type="text/css" rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/themes/south-street/jquery-ui.css" media="all" />
+
+        <script>
+
+	   	var userFormat = function(item) {
+			var r = 
+			$("<tr valign=\"top\"></tr>")
+			.html( $("<td></td>")
+			.html( $("<a></a>").attr("href", item.link || item.url ).text(item.title || item.name) ))
+			.append( $("<td></td>")
+			.html( $("<span></span>").addClass("description").html(item.snippet_text || item.text) ));
+			return r;
+		};
+
+		$(document).ready(function(){
+                $("#myform").indextank_Ize("http://evymez.api.indexden.com", "jshum_github_blog");
+                var renderer =  $("#results").indextank_Renderer({format: userFormat});
+                //var renderer =  $("#results").indextank_Renderer();
+                $("#query").indextank_Autocomplete().indextank_AjaxSearch( {listeners: renderer}).indextank_InstantSearch();
+            });        </script>
   </head>
 
   <body>
