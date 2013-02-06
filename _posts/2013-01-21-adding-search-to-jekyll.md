@@ -48,7 +48,7 @@ The first IndexTank alternative I found was [IndexDen][iden] because it has Inde
 
 Now for the next two pieces of the puzzle. IndexDen supports many different languages, so I think it's theoretically possible to write your own code to sent the text to IndexDen for them to index and make it fairly convenient by adding a post-commit hook or sth of that sort. But there was a brilliant PascalW who wrote it as a jekyll plugin making my life a lot easier.
 
-So following the instructions on [the project's github page][1] and copy the .rb file into the _plugins folder of your site. If you look at the code, it pretty intelligently only reindexes files which have been modified after the last-indexed date and avoids all the index pages. If you run jekyll --server on your website, you'll see Indexing PostTitle after you save any file. That part was easy.
+So following the instructions on [the project's github page][1] and copy the .rb file into the \_plugins folder of your site. If you look at the code, it pretty intelligently only reindexes files which have been modified after the last-indexed date and avoids all the index pages. If you run jekyll --server on your website, you'll see Indexing PostTitle after you save any file. That part was easy.
 
 Now the difficult portion is getting the results to show up on your webpage. Because all github code is static, it had to be javascript/jquery. The API is all HTTP requests so I don't think it would be too difficult to write your own PHP code or backend code to make those requests. Here is where another github project comes to the rescue, flaptor's [indextank-jquery][2]. It's basically a javascript library that abstracts out all the AJAX HTTP requests and even gives you autocomplete in the search form.
 
