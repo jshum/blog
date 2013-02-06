@@ -4,7 +4,10 @@ title: "data science job landscape"
 tldr: "I talk about the reason of the reason for big data, how I see the available opportunities in the field and deciding what I think is appropriate to do at this point."
 tags: [data science, data, cs, landscape, overview, industry]
 ---
-I started off a previous post by sort of connecting the dots from my classes last semester.
+
+[9]: http://jshum.github.com/blog/2013/01/23/k-smallest/
+
+I started off a [previous post][9] by sort of connecting the dots from my classes last semester.
 I've mentioned before I want to work in big data and the past fall, I've tried to learn about the available openings in the industry. A lot of what I know is from my empirical experiences. It is therefore likely much of it will be biased, but I would love to hear from others.
 
 [1]: http://mbwong.com
@@ -27,7 +30,10 @@ A lot of the [job][2] descriptions I have read have at the very top of the requi
 
 > M.S. or Ph.D. in a relevant technical field, or 4+ years experience in a relevant role
 
-At first I was pretty disappointed but it took me some time to convince myself why this is true. I think a lot of people downplay how difficult it is to be a data scientist. You need to be well versed in the mathematics. This means traditional statistical analysis, machine learning (which some have argued to really be statistics with another name), and numerial methods that need to be used when the dataset is so large that the matrix representing it can't even be stored in memory. Math is something you need to plonk down in a quiet place and learn.
+[h2be]: http://www.quora.com/Career-Advice/How-do-I-become-a-data-scientist
+[dplay]: http://www.hilarymason.com/blog/getting-started-with-data-science/
+
+At first I was pretty disappointed but it took me some time to convince myself why this is true. I think [a lot][dplay] of people downplay how difficult it is to be a data scientist. You need to be well versed in the mathematics. This means traditional statistical analysis, machine learning (which some have argued to really be statistics with another name), and numerial methods that need to be used when the dataset is so large that the matrix representing it can't even be stored in memory. (This [quora answer][h2be] has provided to be invaluable in helping me choose classes.) Math is something you need to plonk down in a quiet place and learn.
 
 [5]: http://www.wired.com/science/discoveries/magazine/16-07/pb_theory
 
