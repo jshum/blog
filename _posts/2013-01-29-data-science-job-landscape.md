@@ -2,7 +2,7 @@
 layout: post
 title: "data science job landscape"
 tldr: "I talk about the reason of the reason for big data, how I see the available opportunities in the field and deciding what I think is appropriate to do at this point."
-tags: [data science, data, cs, landscape, overview, industry]
+tags: [data science, data, cs, landscape, overview, industry]j
 ---
 
 [9]: http://jshum.github.com/blog/2013/01/23/k-smallest/
@@ -12,11 +12,11 @@ I've mentioned before I want to work in big data and the past fall, I've tried t
 
 [1]: http://mbwong.com
 
- At least from what I've seen lately, I think the hype for data scientists, which my friend [mbwong][1] had already warned me about a while back, is exaggerated. It's not apparent where the term data science came from but It's important to look at the concontext from which it arised. We started going digital when personal computers came around. The schol secretary inputting student records into an early version of excel. When the internet came around, we could send the file to the local school board for them to add to their master student list. 
+ At least from what I've seen lately, I think the hype for data scientists, which my friend [mbwong][1] had already warned me about a while back, is exaggerated. It's not apparent where the term data science came from but It's important to look at the context from which it arose. We started going digital when personal computers came around. The school secretary inputting student records into an early version of excel. When the internet came around, we could send the file to the local school board for them to add to their master student list. 
 
 [6]: http://www.tracelytics.com/about-us
 
-Every time we digitzed something, it became a new data point. (Not to mention that machine generated data i.e. server logs, event logs are adding to this. A selfless promotion about [Tracelytics][6] a startup that intelligently monitors your logs to tell you if it is working properly. It was started by Brown alum. Automation and the digitalization of things plus the increasing reach of the internet created an eplosion of data points. Instead of each WalMart branch doing sales figures for its own branch and submitting the findings, we now have all of the WalMart sales pumping into some data center at real time. These data sets were way too large for the conventional tools and called for the need of new systems and algorithms. 
+Every time we digitized something, it became a new data point. (Not to mention that machine generated data i.e. server logs, event logs are adding to this. A selfless promotion about [Tracelytics][6] a startup that intelligently monitors your logs to tell you if it is working properly. It was started by Brown alum. Automation and the digitalization of things plus the increasing reach of the internet created an explosion of data points. Instead of each Walmart branch doing sales figures for its own branch and submitting the findings, we now have all of the WalMart sales pumping into some data center at real time. These data sets were way too large for the conventional tools and called for the need of new systems and algorithms. 
 
 [4]: http://jshum.github.com/blog/2013/01/15/big-data-landscape/
 
@@ -33,7 +33,7 @@ A lot of the [job][2] descriptions I have read have at the very top of the requi
 [h2be]: http://www.quora.com/Career-Advice/How-do-I-become-a-data-scientist
 [dplay]: http://www.hilarymason.com/blog/getting-started-with-data-science/
 
-At first I was pretty disappointed but it took me some time to convince myself why this is true. I think [a lot][dplay] of people downplay how difficult it is to be a data scientist. You need to be well versed in the mathematics. This means traditional statistical analysis, machine learning (which some have argued to really be statistics with another name), and numerial methods that need to be used when the dataset is so large that the matrix representing it can't even be stored in memory. (This [quora answer][h2be] has provided to be invaluable in helping me choose classes.) Math is something you need to plonk down in a quiet place and learn.
+At first I was pretty disappointed but it took me some time to convince myself why this is true. I think [a lot][dplay] of people downplay how difficult it is to be a data scientist. You need to be well versed in the mathematics. This means traditional statistical analysis, machine learning (which some have argued to really be statistics with another name), and numerical methods that need to be used when the dataset is so large that the matrix representing it can't even be stored in memory. (This [quora answer][h2be] has provided to be invaluable in helping me choose classes.) Math is something you need to plonk down in a quiet place and learn.
 
 [5]: http://www.wired.com/science/discoveries/magazine/16-07/pb_theory
 
