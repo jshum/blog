@@ -29,8 +29,8 @@ I've been trying to condense some of the advice I've been given growing up. This
 , You won't know and you can't know what the future will be. You have to try out different things before you know what you want to do. Spend your 20s trying different things. - [Bret Victor][bret-victor-video]
 * Expand your universe. Realize that despite what our parents have been trying to make us believe, the universe is not about you at all. Explore far and wide. Keep asking questions and look for the truth. You have to find your own place in the universe.  
 
-*relationship with society, right attidue towards other people.*
-* You're not a self-made person. You are the result of your family, government, the time you're born in. You owe it to the world for any modicum of success you have. You're forever in debt to them. So give back. Don't have any illusion of entitlement or the American dream. [The american dream is based on certain assumptions that aren't true][american-dream]  
+*relationship with society, right attitude towards other people.*
+* You're not a self-made person. You are the result of your family, government, the time you're born in. You owe it to the world for any modicum of success you have. You're forever in debt to them. So give back. Don't have any illusion of entitlement or the American dream. [The American dream is based on certain assumptions that aren't true][american-dream]  
 * You can study lots of stuffy things like philosophy and religion to decide on your way of life. but the answer is always love, love one another, love yourself.  
 * life is meaningless. don't be a douche.   
 Nothing we have is worth hurting anyone else for. It's all fleeting people. Stop seeing race, color, sex, religion, etc.... Theyre all just people, and if you try to love them you won't lose anything.
