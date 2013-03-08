@@ -2,7 +2,7 @@
 layout: post
 title: "our contributions?"
 tldr: "how achievements/contributions will simply be bits on a computer now."
-tags: []
+tags: [contributions, economy, macro, cs, software, achievement, github]
 ---
 
 [1]: http://en.wikipedia.org/wiki/Quaternary_sector_of_the_economy
