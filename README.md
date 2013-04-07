@@ -20,3 +20,15 @@ For all usage and documentation please see: <http://jekyllbootstrap.com>
 4. 2013-01-29: added {% unless post.nosocial %} to the atom.xml page
 5. 2013-02-06: added a tldr.html page which is quite nice. 
 
+## TODO
+1. switch to disqus for commenting
+2. get top posts section
+3. fix search, url doesn't work right
+4. allow organic presentation of blog posts, pinterest wall style?
+5. related posts feature : https://github.com/LawrenceWoodman/related_posts-jekyll_plugin
+
+## Blog post ideas
+* the importance of interests
+* the big 21, the birth of a legend
+* the importance of positioning, and brave new world conditioning you to like what you do
+* technology keeps moving on
