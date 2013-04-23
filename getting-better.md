@@ -8,7 +8,7 @@ description: ""
 [1]: https://thismyonelife.wordpress.com/2012/03/23/astrophysics-life-principles-in-simple-terms/
 [2]: https://thismyonelife.wordpress.com/2012/03/14/insights-from-two-astrophysicists/
 [3]: https://thismyonelife.wordpress.com/2012/02/11/warning-lets-all-die/
-[5]: https://thismyonelife.wordpress.com/2012/01/11/life-how-to-live-it/
+[4]: https://thismyonelife.wordpress.com/2012/01/11/life-how-to-live-it/
 [5]: http://thismyonelife.wordpress.com/2011/04/26/543/
 
 being cognizant of the meaninglessness of life

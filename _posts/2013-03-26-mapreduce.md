@@ -45,7 +45,7 @@ map(key,val)
 for word in val
 	emit(word, 1)
 `
-* for each worker, split output into R pieces. let's say R=4. so [a-g], [h-n], [o-u], [v-z]
+* for each worker, split output into R pieces. let's say R=4. so {(a-g), (h-n), (o-u), (v-z)}
 * for each reduce worker number i, read all M of the i-th out of R intermediate files. Sort it so that they can be partitioned into intermediate keys and list of values
 * Pass each of the intermediate keys to the user defined reduce function
 `
