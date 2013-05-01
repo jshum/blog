@@ -43,8 +43,8 @@ Sources [1][1], [2][2], [3][3]
 
 China
 
-1. [c1][Michael Pettis]
-2. [c2][Patrick Chovanec]
+1. [Michael Pettis][c1]
+2. [Patrick Chovanec][c2]
 
 [o1]: http://www.nextnewdeal.net/rortybomb
 [o2]: http://blogs.reuters.com/felix-salmon/
@@ -52,9 +52,9 @@ China
 
 Personal blogs
 
-1. [o2][Felix Salmon]
-2. [o1][Mike Konzcal]
-3. [o3][Paul Krugman] it's almost neccessary to mention his blog even though I don't think I will bee adding it to my blogroll
+1. [Felix Salmon][o2]
+2. [Mike Konzcal][o1]
+3. [Paul Krugman][o3] it's almost neccessary to mention his blog even though I don't think I will bee adding it to my blogroll
 
 [p1]: http://blogs.wsj.com/economics/
 [p2]: http://www.economist.com/blogs/freeexchange
@@ -62,14 +62,14 @@ Personal blogs
 
 Big Name publications
 
-1. [p1][WSJ] neccessary to mention but too high frequency
-2. [p2][Economist]
-3. [p3][NYtimes]
+1. [WSJ][p1] neccessary to mention but too high frequency
+2. [Economist][p2]
+3. [NYtimes][p3]
 
 [d1]: http://www.calculatedriskblog.com/
 
 Data
 
-1. [d1][Calculated Risk] On all of the top blogs listings
+1. [Calculated Risk][d1]On all of the top blogs listings
 
 
