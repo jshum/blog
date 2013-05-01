@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "quantified selt"
+title: "quantified self"
 tldr: "actigraphy/activity monitors"
 tags: [personalized, gadgets]
 ---
