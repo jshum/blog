@@ -5,7 +5,7 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "sitemap.txt"]
 auto: true
 pygments: true
-paginate: 5
+# paginate: 5  jshum : 2013-05-12 switched from blogroll to site
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -41,9 +41,7 @@ JB :
   # CNAME (http://yourcustomdomain.com)
   #   DO NOT SET BASE_PATH 
   #   (urls will be prefixed with "/" and work relatively)
-  #
-  # GitHub Pages (http://username.github.com)
-  #   DO NOT SET BASE_PATH 
+  # # GitHub Pages (http://username.github.com) #   DO NOT SET BASE_PATH 
   #   (urls will be prefixed with "/" and work relatively)
   #
   # GitHub Project Pages (http://username.github.com/project-name)
