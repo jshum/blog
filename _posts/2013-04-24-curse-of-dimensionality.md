@@ -44,10 +44,13 @@ Then, I started a crazy tangent reading up on the literature mentioned in the Wi
 
 [4]: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.31.1422
 [5]: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.23.7409
+[7]: http://www-stat.stanford.edu/~donoho/Lectures/CBMS/Curses.pdf
+
 1. First started with the person who proved that theorem, [Beyer][4]. They key theorem is that if the variance of the random variable divided by its expected value goes to 0 as the limit increases, the difference between the max and min distances becomes neglible.
     * I follow the math behind the proof but there's two things I don't understand: why add the limit m to infinity and why it has to be exponentiated to a constant p. 
     * The hardest thing to understand is that we have to find a sequence of random variables that has the property of converging to a constant vector. The examples in the paper are quite confusing and don't make any sense to me.
 2.  This seems to be the only other [paper][5] which I've found which uses more concrete example but I still really don't understand what's going on there. It's somewhat confusing because you're trying at the same time to show that the distance metric converges to a constant before you can that it has this property of negligible difference between max and min distance.
+3. [This][7] This is a fairly general purpose article and also can't understand it cause you uses things called Lipschwitz and measure theory. 
 
 [6]: http://www.cs.yale.edu/homes/el327/datamining2013aFiles/11_nearest_neighbor_search.pdf
 
@@ -60,4 +63,8 @@ I think there's two things going on here for curse of dimensionality
 * But that only shows that some algorithms that worked in low dimensionality like kd-trees are not efficient anymore
 * The thing I'm trying to wrap around seems a lot more powerful. They're claiming that there's something about the way the distance metric behaves as the number of dimensions increases that causes the max-min dist to tend to 0.
 
-
+[a]: http://readingsml.blogspot.com/2008/03/curse-of-dimensionality.html
+[b]: http://stats.stackexchange.com/questions/15971/what-is-the-curse-of-dimensionality
+Misc links
+* [Professor blog post][a]
+* [StatsExchange][b] 
