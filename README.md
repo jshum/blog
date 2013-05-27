@@ -19,6 +19,7 @@ For all usage and documentation please see: <http://jekyllbootstrap.com>
 3. 2013-01-21: added search using indextank-jquery and jekyll_indextank. Search is accessed through search.html now, links to google's hosted libraries are added to default.html in layouts/default.html. Next step: switch to a search box on the navigation bar.
 4. 2013-01-29: added {% unless post.nosocial %} to the atom.xml page
 5. 2013-02-06: added a tldr.html page which is quite nice. 
+6. 2013-05-08: fixed the search problem by adding a "blog".concat(item.url || item.link)
 
 ## TODO
 1. switch to disqus for commenting
