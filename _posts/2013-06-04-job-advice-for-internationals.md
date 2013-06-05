@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "finding a job as a foreigner"
-tldr: ""
+tldr: "reasons on why international students should work in the states and why it's hard"
 tags: [usa, jobs, economy, cs, tech, visa, America, employment]
 ---
 {% include JB/setup %}
 
 **Disclaimers** : these are very much my views, this post in particular. I have a realistic, unromantic, way-too-practical view on jobs.
 
-Thanks to BoBo, DrLi and TomYimGong for being my first listeners. I also want to thank mbwong for being the first person to bring me to my senses and being such a supportive friend throughout my search.
+Thanks to BoBo, DrLi and TomYimGong for being my first listeners. I also want to thank mbwong for being the first person to bring me to my senses and to both Ian and mbwong for being such supportive friends throughout my search.
 
 ####Why should I as an international consider working in the States?####
 
