@@ -1,0 +1,53 @@
+---
+layout: page
+title: "CS Links"
+group: show
+description: ""
+---
+
+Software Engineering Tips
+
+[1]: http://blog.apiaxle.com/post/handy-git-tips-to-stop-you-getting-fired/
+
+1.  [Git commands][1]
+
+
+Comp Sci
+
+[101]: http://blog.sigfpe.com/
+[102]: http://www.acm.org/membership/acm-bulletin-archive/march-19-2013-people-of-acm-christos-papadimitriou
+
+1. [Theoretical CS blog][101]
+2. [Interview with Christos Papadimitriou][102]
+
+CS Textbooks
+
+[201]: http://www.nand2tetris.org/course.php
+
+1. [Nand to Tetris][201] - from logic gates to operating system
+
+Perspective/Interviews/Thoughts
+
+[301]: http://cs.unm.edu/~terran/academic_blog/?p=113
+[302]: http://josephwalla.com/the-best-founders-are-futurists
+[303]: http://www.quora.com/Silicon-Valley/Whats-the-dark-side-of-Silicon-Valley
+[304]: http://bhorowitz.com/2011/10/26/lead-bullets/
+[305]: http://blog.regehr.org/archives/953
+
+1. [On Leaving Academia][301] - UNM professor leaving academia for Google explains his reasoning 
+2. [best founders are futurists][302] - founders are the ones who create the technology that is missing in the world
+3. [Dark side of the valley][303] 
+4. [Lead bullets][304] - how to make good products
+5. [Why MSCS are decreasing in value][305]
+
+Interesting products/companies/ideas
+
+[401]: http://x.naveen.com/post/51808692792/a-personal-api
+
+1. [Personal API][401]
+
+Job-related
+
+[501]: https://medium.com/tech-talk/d5f8051afce2
+
+1. [How to land engineering job][501]
