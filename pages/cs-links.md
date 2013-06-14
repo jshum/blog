@@ -23,8 +23,10 @@ Comp Sci
 CS Textbooks
 
 [201]: http://www.nand2tetris.org/course.php
+[202]: http://www.quantstart.com/articles/Quantitative-Finance-Reading-List
 
 1. [Nand to Tetris][201] - from logic gates to operating system
+2. [Quantitative Reading List][202] - don't have these books are like awesome reads in general.
 
 Perspective/Interviews/Thoughts
 
