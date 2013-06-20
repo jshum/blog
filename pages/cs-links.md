@@ -8,9 +8,14 @@ description: ""
 Software Engineering Tips
 
 [1]: http://blog.apiaxle.com/post/handy-git-tips-to-stop-you-getting-fired/
+[2]: https://groups.google.com/forum/#!topic/vagrant-up/YqTdpedJnkM
+[3]: http://stackoverflow.com/questions/927358/how-to-undo-the-last-git-commit
+[4]: http://zetcode.com/lang/rubytutorial/oop/
 
 1.  [Git commands][1]
-
+2.  [scp from Vagrant Box][2] - By default. port 22 is forwarded to 2222 so vagrant lies on vagrant@localhost port 2222. And apparently anything in the the directoriy of the vagrant file is also mounted by default
+3.  [Commands to undo the last git command][3] - the SO answer has anaswers and nice illustrations to have the three levels. undo commit and remove all changes, undo commit and keep changes, undo commit, keep changes and index.
+4.   [OOP in Ruby][4]
 
 Comp Sci
 
@@ -45,8 +50,10 @@ Perspective/Interviews/Thoughts
 Interesting products/companies/ideas
 
 [401]: http://x.naveen.com/post/51808692792/a-personal-api
+[402]: http://blogs.reuters.com/felix-salmon/2013/06/13/why-netflix-is-producing-original-content/
 
 1. [Personal API][401]
+2. [Why Netflix is producing original content][402] : they want to become HBO faster than HBO can become Netflix. They want to be provider of original content so that the question becomes not whether you want Netflix, but whether you can afford not to have Netflix
 
 Job-related
 
