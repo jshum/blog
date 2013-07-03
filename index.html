@@ -23,3 +23,8 @@ title: "Blog"
    {% endif %}
 {% endfor %}
 
+<ul>
+{% assign pages_list = site.pages %}
+{% assign group = 'show' %}
+{% include JB/pages_list %}
+</ul>
