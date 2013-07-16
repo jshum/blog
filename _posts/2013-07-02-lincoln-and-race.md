@@ -23,7 +23,7 @@ I got interested in Lincoln after the recent DOMA strike down. I have been think
 * During his time as a lawyer, Lincoln actually represented both sides of the slave trade in Springfield.
 * He defended black property owners in the North, fugitive slaves but also prosecuted on behalf of slave owners who were trying to reclaim their fugitive slaves
 * During his campaign for Illinois senator, he was criticized by his adversary Stephen Douglas in a series of debates as a radical abolitionist to which he responded “I am not, nor have ever been in favor of bringing about in any way the social and political equality of the white and black races.”
-* During his presidential campaign, the Republican party and his position on slavery was "[it is ] an evil not be extended, but to be tolerated and protected" in places where it already existed "This is all Republicans ask -- all Republicans desire -- in relation to slavery,"
+* During his presidential campaign, the Republican party and his position on slavery was "\[it is\] an evil not be extended, but to be tolerated and protected" in places where it already existed "This is all Republicans ask -- all Republicans desire -- in relation to slavery,"
 * He saw it as a policy that gave Southern plantation owners an unfair economic advantage.
 * Some claim that Lincoln personally objected to slavery but it was not apparent he cared much for equality between the two races.
 * But it was during the civil war where his views changed

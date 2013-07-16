@@ -17,30 +17,31 @@ Been using a lot of oozie this summer for my work at [Viglink][vig]
 
 [oozie-actions]: http://oozie.apache.org/docs/3.3.1/index.html#Action_Extensions
 
-coordinator.xml is used to schedule runs of workflows. It defines when the workflows are to be run, whether at regular intervals, or when certain files appear in file directories. workflow.xml defines a workflow which is a DAG (directed acyclic graph) of mapreduce jobs, originally only Pig/Java/FileSystem jobs, but they have since added a bunch of [Action extensions][oozie-actions] and you can even write your own action extension. Finally, you have to define a *.properties files that gives the configurations to the workflow (but you can also define these inside coordinator.xml as <param>...</param>
+coordinator.xml is used to schedule runs of workflows. It defines when the workflows are to be run, whether at regular intervals, or when certain files appear in file directories. workflow.xml defines a workflow which is a DAG (directed acyclic graph) of mapreduce jobs, originally only Pig/Java/FileSystem jobs, but they have since added a bunch of [Action extensions][oozie-actions] and you can even write your own action extension. Finally, you have to define a job.properties files
+that gives the configurations to the workflow (but you can also define these inside coordinator.xml as &lt;param>... &lt;/param>
 
 ####Submitting/Running jobs####
 
-* oozie job -oozie <oozie/url>-config <job.properties> -run
+* oozie job -oozie &lt;oozie/url>-config &lt;job.properties> -run  
   * will return a job id
-*oozie job -kill <job-id>
+* oozie job -kill &lt;job-id>
 
 ####Checking job satutus####
 
-* Oozie console - master-node-ip:11000/oozie/
+* Oozie console - master-node-ip:11000/oozie/  
   * Easiest to check the status of jobs here or you can do
-* oozie job -info <job-id>
+* oozie job -info &lt;job-id>
 
 ####Relation between job ids####
 
-* <Coordinator job id>  = [0-9]+-[0-9]+-oozie-oozi-C
-* Each instance of a workflow = <coordinator-job-id>@[0-9]
-* Workflow id = [0-9]+-[0-9]+-oozie-oozi-W
-* Then use mapped job -status  job_[0-9+]_[0-9+] to check status of map reduce jobs
+* &lt;coordinator job id>  = (0-9)+-(0-9)+-oozie-oozi-C
+* Each instance of a workflow = &lt;coordinator-job-id>@(0-9)
+* Workflow id = (0-9)+-(0-9)+-oozie-oozi-W
+* Then use mapped job -status  job_(0-9+)_(0-9+) to check status of map reduce jobs
 
 ####Notes####
 
 * The apppath has to be an hdfs directory
 * also parameters are case sensitive inside any scripts you use
   * You define lower case parameters in coordinator.xml
-  * and uppercase in *.properties
+  * and uppercase in job.properties

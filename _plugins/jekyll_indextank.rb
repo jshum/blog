@@ -48,7 +48,7 @@ module Jekyll
         # wait for the indextank index to get ready
         sleep 0.5
       end
-      
+
       items.each do |item|              
         page_text = extract_text(site,item)
         @index.document(item.absolute_url).add({ 

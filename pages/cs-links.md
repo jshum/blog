@@ -33,7 +33,7 @@ CS Textbooks
 
 1. [Nand to Tetris][201] - from logic gates to operating system
 2. [Quantitative Reading List][202] - don't have these books are like awesome reads in general.
-3. [Books on Computer Security] - Bruce Schneier just joined EFF on the day I found his blog. creepy
+3. [Books on Computer Security][203] - Bruce Schneier just joined EFF on the day I found his blog. creepy
 
 Perspective/Interviews/Thoughts
 
