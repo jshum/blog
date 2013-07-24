@@ -45,3 +45,10 @@ that gives the configurations to the workflow (but you can also define these ins
 * also parameters are case sensitive inside any scripts you use
   * You define lower case parameters in coordinator.xml
   * and uppercase in job.properties
+
+###Extra Resources###
+
+[1]: https://blogs.oracle.com/datawarehousing/entry/building_simple_workflows_in_oozie
+
+1. [Simple workflow in Oozie][1]
+
