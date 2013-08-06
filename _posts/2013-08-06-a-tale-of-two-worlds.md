@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "a tale of two worlds"
+title: "The intertwined tales of money and empathy"
 tldr: ""
 tags: []
 ---
@@ -9,7 +9,7 @@ tags: []
 [2]: http://www.reddit.com/r/TrueReddit/comments/1ip71m/jk_rowling_and_the_chamber_of_literary_fame/cb6sk20
 [3]: https://medium.com/i-m-h-o/c8f0a6dfffab
 
-####Solitary confinement####
+####Equality - why we won't get there####
 
 Consciousness is solitary. All our thoughts and emotions are our own. There is only ever one voice in your head. No thoughts not conjured by our own brain. No feelings not arisen from our own chemical circuitry. 
 
@@ -63,7 +63,7 @@ more error-prone bodies which needs more attention will.
 _Against_    
 I can't speak for all of us, but for some of us, a certain degree of empathy still exists inside us, a certain cognition that we all belong to one species, and that it should not be the case there two members of the same species has such different life experiences. That guilt that accompanies enjoying some luxury that you realize that somebody may never experience, that guilt which accompanies us when we realize that society is really not meritocratic but about cumulative advantages we accrue
 over our life [2][2]  is what makes us human, and to some degree exists in all of us. Laws came to be because of this guilt inside us that realized that everyone deserves uniform treatment for whatever actions they have performed. Laws are beneficial to the development of society, because they place a restriction on what money can do. but individuals with large amounts of cash without love to do without them, because then they can unleash the full exploitative power of money. And what
-is about disconcerting that we are never able to climb the wealth ladder unless we make someone else above us in the ladder richer. [1][1]
+is so disconcerting is that we are never able to climb the wealth ladder unless we make someone else above us in the ladder richer. [1][1]
 
 ####Notes####
 
