@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "conversations"
-tldr: "Irony of America. Jealous China, Startup questions, future of knowledge "
-tags: [usa, china, startup, advice]]
+tldr: "Irony of America. Jealous China, Startup questions, future of knowledge"
+tags: [usa, china, startup, advice]
 ---
 
 A couple of ideas from conversations I've head in the past couple of days:

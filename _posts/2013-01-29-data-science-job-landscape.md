@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "data science job landscape"
-tldr: "I talk about the reason of the reason for big data, how I see the available opportunities in the field and deciding what I think is appropriate to do at this point."
-tags: [big data, data science, data, cs, landscape, overview, industry]j
+tldr: 'I talk about the reason of the reason for big data, how I see the available opportunities in the field and deciding what I think is appropriate to do at this point.'
+tags: [big data, data science, data, cs, landscape, overview, industry]
 ---
 
 [9]: http://jshum.github.com/blog/2013/01/23/k-smallest/

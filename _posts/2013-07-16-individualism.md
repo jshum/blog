@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "individualism"
-tldr: ""
-tags: []
+tldr: "comparison of western to East Asian risk-averse mentality"
+tags: [parenting, culture, risk averse, usa, responsibility, freedom]
 ---
 {% include JB/setup %}
 
