@@ -23,6 +23,8 @@ Chronological order
 [14]: http://lens.blogs.nytimes.com/2013/08/14/pictures-of-the-day-egypt-and-elsewhere-61/
 [15]: http://lens.blogs.nytimes.com/2013/08/12/kodachromes-lasting-color-and-memory/
 [16]: http://lens.blogs.nytimes.com/2013/08/09/pictures-of-the-day-california-and-elsewhere-4/
+[17]: http://www.theatlantic.com/infocus/2013/08/winners-of-the-red-bull-illume-photo-contest-2013/100583/
+
 
 2013-06-09 : [Photographing on Top of the World][1]   
 2013-06-09 : [Jim Crow photo][2]  
@@ -37,3 +39,4 @@ Chronological order
 2013-08-15 : [August 14 Pictures of the Day][14] - Some powerful shots from violence to stop protesting in Egypt.  
 2013-08-16 : [Kodachrome’s Lasting Color, and Memory][15] - framing of subject matter is interesting esp 9, 11 and 12. Also contrast is stronger than normal.  
 2013-08-15 : [August 9 Pictures of the Day][16] - 8) Putin walking awesome subject composition, 10) Fishing versus expansive calm sea and 11) Perfect zoom length of people, which I think is shoutout to famous sit on skyscraper picture
+2013-09-22 : [Red Bull Photo Contest Winners][17] - this shit cray
