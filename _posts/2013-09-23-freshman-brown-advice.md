@@ -5,7 +5,7 @@ tldr: "advice for freshman at Brown."
 tags: [brown, freshman, life, advice, practical]
 ---
 
-authors : Tiffany Phu and Jason Shum
+by Tiffany Phu and Jason Shum
 
 ##Health##
 
@@ -65,7 +65,7 @@ Some examples:
 ###TIPS###
 
 * DON’T GET A LANYARD. If one is forced upon you, DON’T WEAR YOUR LANYARD. It will scream “freshman”. Unless if that’s what you’re going for, in which case wear it loud and proud.
-* Asking for numbers is zero percent creepy the first few weeks, and gets exponentially more difficult to do as time progresses and friend groups form. If you’ve had a decent conversation, feel free to go for it. Ask them to do things-- yo, wanna check out ____ together? hey, let’s see [insert event that is going on]. 
+* Asking for numbers is zero percent creepy the first few weeks, and gets exponentially more difficult to do as time progresses and friend groups form. If you’ve had a decent conversation, feel free to go for it. Ask them to do things-- yo, wanna check out ____ together? hey, let’s see (insert event that is going on). 
 * Go to all of the orientation events. ALL OF THEM. Okay. Maybe not the financial literacy workshops.
 * Supercuts isn’t too expensive. It’s about 15 bucks for a haircut, which is the cheapest you’re going to find. Unless you want to get a buzz cut like I did, you can get those at Ed’s for 10 dollars. 
 * Get a futon for your room in freshman year
