@@ -42,12 +42,16 @@ Perspective/Interviews/Thoughts
 [303]: http://www.quora.com/Silicon-Valley/Whats-the-dark-side-of-Silicon-Valley
 [304]: http://bhorowitz.com/2011/10/26/lead-bullets/
 [305]: http://blog.regehr.org/archives/953
+[306]: http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/
+[307]: http://www.reddit.com/r/coding/comments/1kiold/the_perils_of_futurecoding_xpost_rprogramming/cbpj715
 
 1. [On Leaving Academia][301] - UNM professor leaving academia for Google explains his reasoning 
 2. [best founders are futurists][302] - founders are the ones who create the technology that is missing in the world
 3. [Dark side of the valley][303] 
 4. [Lead bullets][304] - how to make good products
 5. [Why MSCS are decreasing in value][305]
+6. [Don't Call Yourself A Programmer][306]  - Engineers are hired to create business value, not to program things: 
+7. [The Perils of Future-Coding][307]
 
 Interesting products/companies/ideas
 
