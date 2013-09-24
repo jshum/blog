@@ -18,7 +18,7 @@ by Tiffany Phu and Jason Shum
 
 ###Alcohol###
 
-* I remember freshman year weekends mostly being spent finding parties where they were serving alcohol. I think that that’s definitely part of the experience, and it also forces you to leave your dorm and go to parties where you will meet people. At the same time, I find that the common problem with lot of freshman is the tendency to binge drink when they find access to alcohol, because it is such a scarce resource . Obviously, you need to try, and until you’re sitting with your hands around the toilet bowl at 3am, you haven’t really experienced college. Having said that, you have me here, and you should obviously tell me if you need some alochol for you and your friends so that you don’t have to binge drink.
+* I remember freshman year weekends mostly being spent finding parties where they were serving alcohol. I think that that’s definitely part of the experience, and it also forces you to leave your dorm and go to parties where you will meet people. At the same time, I find that the common problem with lot of freshman is the tendency to binge drink when they find access to alcohol, because it is such a scarce resource . Obviously, you need to try, and until you’re sitting with your hands around the toilet bowl at 3am, you haven’t really experienced college. 
 * If you are willing to dedicate a Brita pitcher and filter solely to alcohol, filtering cheap vodka through these things 3-5 times makes it so much better.
 * Your RA will not care if you are drinking or partying in your dorm room AS LONG as you aren’t keeping them up, or anyone who likes to complain up. You can also hold parties in common spaces in dorms if you so desire, as long as nobody complains.
 Drugs 
