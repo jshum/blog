@@ -66,3 +66,9 @@ Job-related
 [501]: https://medium.com/tech-talk/d5f8051afce2
 
 1. [How to land engineering job][501]
+
+Jekyll-related
+
+[601]: http://cwoebker.com/posts/latex-math-magic
+
+1. [How to write latex math in Jekyll][601]
