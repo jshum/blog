@@ -39,7 +39,7 @@
 			var r = 
 			$("<tr valign=\"top\"></tr>")
 			.html( $("<td></td>")
-			.html( $("<a></a>").attr("href", "blog/".concat(item.link || item.url )).text(item.title || item.name) ))
+			.html( $("<a></a>").attr("href", item.link || item.url ).text(item.title || item.name) ))
 			.append( $("<td></td>")
 			.html( $("<span></span>").addClass("description").html(item.snippet_text || item.text) ));
 			return r;

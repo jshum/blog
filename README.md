@@ -23,6 +23,7 @@ The quickest way to start and publish your Jekyll powered blog. 100% compatible 
 5. 2013-02-06: added a tldr.html page which is quite nice. 
 6. 2013-05-08: fixed the search problem by adding a "blog".concat(item.url || item.link)
 7. 2012-05-12: changed from pagination to landing page. Switched color scheme, successfully installed theme dinky and played around with it.
+8. 2013-11-12: fixed search problem by removing the "blog" concat thing
 
 ## TODO
 1. switch to disqus for commenting. *DONE*
@@ -31,6 +32,11 @@ The quickest way to start and publish your Jekyll powered blog. 100% compatible 
 4. allow organic presentation of blog posts, pinterest wall style?
 5. related posts feature : https://github.com/LawrenceWoodman/related_posts-jekyll_plugin
 6. make search more modular. move referneces only to search.html. requires fixing relative paths. 
+
+## relevancy graph
+1. get top 50-100 common words for each post
+2. compare with other posts, make score between each pair the # of overlaps in common words
+3. use chord diagram in d3.js
 
 ## Blog post ideas
 * the importance of interests
