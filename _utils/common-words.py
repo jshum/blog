@@ -18,7 +18,7 @@ def gen_words_vector(path):
    # choice, go with analyzing md files
    
    # splits on all non-alphanumeric characters
-   m = [[e for e in re.split('\W+',line)] for line in f]
+   m = [[e.lower() for e in re.split('\W+',line)] for line in f]
    # flattens list and removes all empty strings
    
    m = [item for sublist in m for item in sublist if len(item) > 0]
@@ -35,9 +35,10 @@ def find_paths(postdir):
    return mdfiles
 
 def distance(w_cnter1,w_cnter2):
-   return len(set(w_cnter1) & set(w_cnter2))
+   return set(w_cnter1) & set(w_cnter2)
 
-
+def remove_stop_words(common, stop_words):
+   return common - stop_words
 # main method
 postdir = '../_posts/'
 mdfiles = find_paths(postdir)
@@ -48,19 +49,51 @@ for f in mdfiles:
    d[f] = vec
 
 # numpy 2d distance matrix
+
+g = open('eng-stop-words','r')
+g = open('english.stop','r')
+stop_wds = set()
+[stop_wds.add(e.strip()) for e in g]
+
+# empirically added words
+exception_stop_wds = ['ve', 'www','http']
+[stop_wds.add(e) for e in exception_stop_wds]
+
+# adding yaml front matter specific top words
+yaml_stop_wds = ['post','layout','title','tags','tldr']
+[stop_wds.add(e) for e in yaml_stop_wds]
+
 dist_matrix = zeros( (len(mdfiles), len(mdfiles))) 
+
+output_csv = 1
+debug = 0
 
 print 'i,j,score'
 for i in range(len(mdfiles)):
+#for i in range(5):
    for j in range(len(mdfiles)):
+   #for j in range(5):
       if i == j:
          # diagonal
-         print str(i)+','+str(j)+',0'
+         dist_matrix[i,i]=0
+         if(output_csv):
+            print str(i)+','+str(j)+',0'
          break
       # symmetric matrix
-      print str(i)+','+str(j)+','+str(distance(d[mdfiles[i]],d[mdfiles[j]]))
-      print str(j)+','+str(i)+','+str(distance(d[mdfiles[i]],d[mdfiles[j]]))
-      dist_matrix[i, j] = distance(d[mdfiles[i]],d[mdfiles[j]])
+      if(debug):
+         print remove_stop_words(distance(d[mdfiles[i]],d[mdfiles[j]]), stop_wds)
+      score = len(remove_stop_words(distance(d[mdfiles[i]],d[mdfiles[j]]), stop_wds))/5
+      # non-maxima suppression?
+      if score > 10:
+         out_score = 1
+      else:
+         out_score = 0
+      dist_matrix[i, j] = out_score
+      dist_matrix[j, i] = out_score
+      if(output_csv):
+         print str(i)+','+str(j)+','+str(out_score)
+         print str(j)+','+str(i)+','+str(out_score)
+
 
 # lower triangle
 #for i in range(len(mdfiles)):
@@ -70,8 +103,6 @@ for i in range(len(mdfiles)):
 #      print str(i)+','+str(j)+','+str(distance(d[mdfiles[i]],d[mdfiles[j]]))
 #      dist_matrix[i, j] = distance(d[mdfiles[i]],d[mdfiles[j]])
 
-
-
 #d = dist_matrix.tolist()
 #for l in d:
 #   for e in l:
@@ -79,17 +110,12 @@ for i in range(len(mdfiles)):
 #   print
 
 set_printoptions(threshold='nan')
-# print dist_matrix
-fig,ax = plt.subplots()
-ax.imshow(dist_matrix)
-#plt.show()
-# from 
-g = open('eng-stop-words','r')
-stop_wds = set()
-[stop_wds.add(e.strip()) for e in g]
 
-# TODO
-# 1. remove the common words from the diagram
-# 2. create a d3.js visualization
+if(debug):
+   # print dist_matrix
+   fig,ax = plt.subplots()
+   ax.imshow(dist_matrix)
+   plt.show() # from 
+
 # use http://bl.ocks.org/mbostock/1308257 as example
 
