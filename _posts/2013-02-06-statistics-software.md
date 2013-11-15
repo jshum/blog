@@ -2,7 +2,7 @@
 layout: post
 title: "statistics software"
 tldr: ""
-tags: []
+tags: [statistics, overview, data]
 ---
 
 [linux-r]: http://cran.r-project.org/bin/linux/ubuntu/README

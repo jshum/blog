@@ -2,7 +2,7 @@
 layout: post
 title: "oozie intro"
 tldr: "One of the big three hadoop tools : Oozie"
-tags: []
+tags: [oozie,hadoop,hdfs,big data,cs]
 ---
 
 [vig]: viglink.com

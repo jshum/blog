@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Going to lecture
+tags: [lecture]
 ---
 {% include JB/setup %}
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Looking back 2"
 tldr: "brainstorming points on a speech for high school students"
+tags: [advice,thought catalog,fluff]
 ---
 
 * You control your life. be comfortable with yourself, your imperfections, your regrets. you decide who you want to be.

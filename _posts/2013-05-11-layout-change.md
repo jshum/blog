@@ -2,7 +2,7 @@
 layout: post
 title: "Layout change"
 tldr: ""
-tags: []
+tags: [site,meta,design,boostrap]
 ---
 {% include JB/setup %}
 

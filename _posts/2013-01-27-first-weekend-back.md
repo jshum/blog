@@ -2,7 +2,7 @@
 layout: post
 title: "first weekend back"
 tldr: "Just some links about patriot's offence, lakers terribleness, and what some HN people think about not working in academia"
-tags: []
+tags: [football,sports,lakers,patriots,academia]
 ---
 
 [1]: http://smartfootball.blogspot.com/2009/07/nfl-offense-what-is-it-why-does-every.html

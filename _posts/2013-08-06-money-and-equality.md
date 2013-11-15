@@ -2,7 +2,7 @@
 layout: post
 title: "The intertwined tales of money and empathy"
 tldr: ""
-tags: []
+tags: [money, equality, fluff]
 ---
 
 [1]: http://www.reddit.com/r/DepthHub/comments/1hpk73/uainrialai_explains_left_anarchism/cax2ahg?context=3
