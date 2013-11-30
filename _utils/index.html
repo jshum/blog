@@ -68,7 +68,17 @@ d3.csv("scores.csv", function(data) {
         .append("g")
        .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
    
-   
+   var gps = svg.selectAll("g.group").data(chord.groups)
+         .enter()
+         .append("svg:g")
+         .attr("class","group");   
+
+   gps.append("svg:text")
+         .attr("x", 100)
+         .attr("dy",15)
+         .append("svg:textPath")
+         .text(function(d) { return "a"; });
+
    svg.append("g").selectAll("path")
        .data(chord.groups)
      .enter().append("path")
