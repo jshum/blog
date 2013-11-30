@@ -7,7 +7,7 @@ tags: [jobs,optimism,decision,choices]
 
 This post is going to be very shitty, mostly brainstorming but I wanted to put something out there to get me to start going again.
 
-I had a good summer, honestly, probably the best I've ever had. It was a combination of things I suppose a really educational job with low stress and good pay with awesome people, lots of new friends introduced by roommates, and even time to exercise.
+I had a good summer, honestly, probably the best I've ever had. It was a combination of things I suppose a really educational job with low stress and working with awesome people, lots of new friends introduced by roommates, and even time to exercise.
 
 And so I came back with an unparalleled sense of optimism and hope. And shit gets hard and you accomplish less than you set out to. And throughout this has been a conversation with myself in the back of my head slowly making observations about life.
 
