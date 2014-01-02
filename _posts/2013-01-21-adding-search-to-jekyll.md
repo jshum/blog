@@ -15,7 +15,7 @@ When I was searching for solutions, I found a few offerings.
 
 The first thing I obviously looked at was google because they are known to have a lot of pretty amazing products and corresponding APIs. The 'Hello World' version is actually really easy:
 
-```
+```javascript
  <script>
   (function() {
     var cx = '017271879301176231845:grhogvs-w3e';

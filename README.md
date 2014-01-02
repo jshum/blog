@@ -24,6 +24,7 @@ The quickest way to start and publish your Jekyll powered blog. 100% compatible 
 6. 2013-05-08: fixed the search problem by adding a "blog".concat(item.url || item.link)
 7. 2012-05-12: changed from pagination to landing page. Switched color scheme, successfully installed theme dinky and played around with it.
 8. 2013-11-12: fixed search problem by removing the "blog" concat thing
+9. 2013-12-28: concat still not fied. need to check some syntax. Also added Gemfile. because indextank hasn't been updated in so long, have to stop yajl-ruby at 1.1.0
 
 ## TODO
 1. switch to disqus for commenting. *DONE*
