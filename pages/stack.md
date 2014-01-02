@@ -33,28 +33,28 @@ description: ""
 * Dualboot with Wubi Installer
 
 * Utilities
-   * Windows Aero snap using [omgUbuntu][c1] or Unity
-   * Dropbox
+	* Windows Aero snap using [omgUbuntu][c1] or Unity
+	* Dropbox
 * Notetaking
-   * Workload
-      * Snappy - for quick lightning notes when I have to write down context for tasks or ideas I have
-      * Quick - Need a quick prompt to switch files
-      * Markdown-compatible - nice easy interface for rendering in console or in preview window because my blog is in markdown
-   * Requirements
-      * Looking for a markdown editor that allows filetree in sidebar
-   * Candidates   
-      * nvpy (markdown, has fixed notes folder) ([link][c2])
-        - Markdown preview requires opening a browser and isn't realtime either
-        - But has strong search capabilities
-      * uberwriter (markdown, minimalist, free) ([link][c3]) ([HN][c4])
-        - Minimalist but doesn't have easy way to open other files except using the open file dialog
-      * Haroo Pad ([link][c6]) ([HN][c7])
-        - doesn't have easy way to open other files except using the open file dialog
-      * Sublime Text 3 with [MarkdownEditing][c5]
-        - View > Sidebar to show folders
-        - Project > Add Folder to Project to have multiple folders per project
-        - <kbd>Ctrl+p</kbd> to open other files
-        - <kbd>Ctrl+Alt+p</kbd> to open other projects
+	* Workload
+		* Snappy - for quick lightning notes when I have to write down context for tasks or ideas I have
+		* Quick - Need a quick prompt to switch files
+		* Markdown-compatible - nice easy interface for rendering in console or in preview window because my blog is in markdown
+	* Requirements
+		* Looking for a markdown editor that allows filetree in sidebar
+	* Candidates   
+		* nvpy (markdown, has fixed notes folder) ([link][c2])
+			- Markdown preview requires opening a browser and isn't realtime either
+			- But has strong search capabilities
+		* uberwriter (markdown, minimalist, free) ([link][c3]) ([HN][c4])
+			- Minimalist but doesn't have easy way to open other files except using the open file dialog
+		* Haroo Pad ([link][c6]) ([HN][c7])
+			- doesn't have easy way to open other files except using the open file dialog
+		* Sublime Text 3 with [MarkdownEditing][c5]
+			- View > Sidebar to show folders
+			- Project > Add Folder to Project to have multiple folders per project
+			- <kbd>Ctrl+p</kbd> to open other files
+			- <kbd>Ctrl+Alt+p</kbd> to open other projects
         
       
 
