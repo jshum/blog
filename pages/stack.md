@@ -56,8 +56,7 @@ description: ""
 			- <kbd>Ctrl+p</kbd> to open other files
 			- <kbd>Ctrl+Alt+p</kbd> to open other projects
         
-      
-
+    
 ###Computing : Mac###
 
 * Snow Leopard
@@ -93,9 +92,14 @@ description: ""
 ###Personal###
 
 [p1]: https://github.com/jshum/blog/tree/gh-pages
+[p2]: http://betanews.com/2013/08/26/how-to-use-outlook-com-as-a-free-custom-domain-email-host/
 
+* Web Host 
+    * NearlyFreeSpeech ($0.02 per day)
+* Web Email
+    * Windows Live Mail ([tutorial][p2])
 * Blog
-    * custom Jekyll setup [github][p1]
+    * custom Jekyll setup ([github][p1])
 * Misc
     * IFTTT script to send me weather report every morning by text
 * Personal
