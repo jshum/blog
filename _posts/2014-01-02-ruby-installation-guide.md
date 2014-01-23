@@ -30,29 +30,32 @@ Ruby version management system
 a) (Mac) + (Linux) : [Instructions][3]
 
 4) Install desired version of ruby 
-`rbenv install 2.0.0` and do `rbenv rehash`
+`rbenv install 2.0.0` and `rbenv global 2.0.0` and do `rbenv rehash`
 
 5) Before using zanhealth, install following packages on ubuntu
 
+6) At this point in time, do `which ruby` and see that it points to the .shim one. You may have to open a new terminal.
+
+7) Install the following if you intend to use heroku rails
 ```bash
 sudo apt-get install libpq-dev
 sudo apt-get install libsqlite3-dev
 sudo apt-get install nodejs
 ```
 
-6) At this point in time, do `which ruby` and see if it's the one you just installed. You may have to open a new terminal.
+8) Check that `which gem` points to the .shims one
 
-7) `cd` into project directory that contains Gemfile
+9) Install the bundler gem `gem install bundler`. (Additionally do `rbenv rehash`)
+
+10) Again do `which bundler`, it should point to your .shims one. If it doesn't, then you may have to remove a current installation of bundler by `rm -rf ~/.bundler`
+
+11) `cd` into project directory that contains Gemfile
 
 (Alternatively, you can use a rbenv plugin called rbenv-bundler which will separate all your gemsets. I didn't see the necessity yet, until I get dependency conflicts.)
 
-8) Install the bundler gem `gem install bundler`. (Additionally do `rbenv rehash`)
-
-9) Again, do `which bundler`, this should hopefully be inside the ruby directory you just installed. 
-
-10) If this is the case, install gems for bundle (should install rails if you have RoR project)
+12) If this is the case, install gems for bundle (should install rails if you have RoR project)
 `bundle install`
 
-11) Test server out
+13) Test server out
 `bundle exec rails server`
 
