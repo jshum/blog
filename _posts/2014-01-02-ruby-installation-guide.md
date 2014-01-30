@@ -36,7 +36,7 @@ a) (Mac) + (Linux) : [Instructions][3]
 
 6) At this point in time, do `which ruby` and see that it points to the .shim one. You may have to open a new terminal.
 
-7) Install the following if you intend to use heroku rails
+7) Install the following as well if you intend to use heroku rails on Ubuntu
 ```bash
 sudo apt-get install libpq-dev
 sudo apt-get install libsqlite3-dev
