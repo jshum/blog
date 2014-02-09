@@ -18,7 +18,7 @@ description: ""
 3. Hiking trails often start out in out of the way areas so buses/taxis will be most useful in reaching the trailhead. The two major bus operations are [KMB][3a] + [City Bus/New Bus][3b] 
 
 [h1]: http://www.hike.hk/load.jsp?route=dragon&page=1
-[h2]: 
+[h2]: http://www.hike.hk/load.jsp?route=mt5&page=1
 
 ###Some hikes I've done in the past###
 
