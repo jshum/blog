@@ -8,10 +8,11 @@ description: ""
 [1]: http://lifehacker.com/5145357/add-gmail-tasks-to-your-firefox-sidebar
 
 ###Mobile###
-* iPhone 4 (6.1.3)
-    * Google Voice for International Calls
+* iPhone 4 (7.1.0)
+    * Google Voice/Hangouts for International Calls
     * Dropbox for auto Camera Upload
     * WhatsApp for international texting
+    * HackerNode for morning reading
 
 [d1]: https://github.com/robbyrussell/oh-my-zsh
 
@@ -62,10 +63,12 @@ description: ""
 * Snow Leopard
 
 * Notetaking
-   * nvALT
-   * Notational Velocity on Air 
+  - SublimeText3
+  - Previously : nvALT
 
 ###Web Productivity###
+
+[evernotelinks]: https://www.evernote.com/pub/shumguy/links
 
 * Firefox
    * My choice because of memory management issues. I tend to have many tabs open while I'm developing 
@@ -82,6 +85,8 @@ description: ""
    * Hacker News
    * IFTTT to send me emails based on RSS updates
    * Blogtrottr to send me daily digest
+* Bookmarks
+  - Evernote Web Clipper ([linklog][evernotelinks])
 * Classnotes Taking
    * Lyx
 * Music
@@ -106,9 +111,12 @@ description: ""
   - Finances
     + Splitwise
     + Mint
+  - Health
+    + SleepBot
 
 ###Revisions###
 
 1. June 2013
 2. Dec 24, 2013
 3. Dec 28, 2013
+4. April 28, 2014
