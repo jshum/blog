@@ -27,7 +27,7 @@ description: ""
 [c5]: https://github.com/SublimeText-Markdown/MarkdownEditing/
 [c6]: http://pad.haroopress.com/
 [c7]: https://news.ycombinator.com/item?id=6969897
-
+[sublimepackage2]: https://sublime.wbond.net/packages/Git
 
 ###Computing : Ubuntu###
 
@@ -51,7 +51,10 @@ description: ""
 			- Minimalist but doesn't have easy way to open other files except using the open file dialog
 		* Haroo Pad ([link][c6]) ([HN][c7])
 			- doesn't have easy way to open other files except using the open file dialog
-		* Sublime Text 3 with [MarkdownEditing][c5]
+		* Sublime Text 3 
+      - Packages
+        + [MarkdownEditing][c5]
+        + [Git][sublimepackage2]
 			- View > Sidebar to show folders
 			- Project > Add Folder to Project to have multiple folders per project
 			- <kbd>Ctrl+p</kbd> to open other files
