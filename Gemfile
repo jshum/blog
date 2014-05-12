@@ -10,3 +10,5 @@ gem 'indextank'
 gem 'yajl-ruby','~>1.1.0'
 
 gem 'nokogiri'
+
+gem 'kramdown'

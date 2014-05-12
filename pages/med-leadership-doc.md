@@ -47,7 +47,6 @@ Hopefully, this document will be of use to you. Please send any suggestions and 
     - Figure out what you need
     - Knowing your talent pool
     - The sales pitch
-    - Locking them in
 2. Starting up and running your team
     - Establish a rhythm
     - Establish processes
@@ -85,6 +84,8 @@ If agreement has been reached, I usually go for another smokescreen test by assi
 
 ##Starting up and running your team##
 
+###Establish a Rhythm###
+
 The overarching goal when starting any team is to establish an overarching culture and rhythm that works for you. To do this, you have to utilize effective communication mediums, regularly-held meetings and business processes.
 
 Meetings or inter-personal communication is the most effective means of communication. Something about the combination of words, inflection, facial expressions, body languages gives it a lot more explanatory power over pure text-based messaging (emails, texts), and even over phonecalls and even over video chat I would say. 
@@ -101,35 +102,37 @@ Especially, if you only have weekly meetings where people meet, it is important 
 
 In my experience, I have found it basically impossible to enforce working being done using weekly meetings alone. It has been much more successful in my experience to also include manadatory hacking sessions/hackathons on the weekend or during the week. A) This makes it easier for new members to learn very quickly by observation B) It also has the same benefits of putting people in a room together working towards the same goal. It fosters camraderie, responsbility, purpose and fun.
 
-###HR Management Aspect###
+### Create Processes ###
 
-Be fair. Praise only when necessary but never criticize. Give objective assessments on the work that was done, but instead of saying that this was bad, give constructive criciticsm on how to make it even better. It's hard to not be snarky in these situations, because you may/will feel a clear sense of superiority. But put yourself in the shoes of the receiving end before saying anything like that. People sense condescension very well, amazingly well. 
+####Onboarding####
 
-###Institutional Knowledge Management###
+Even very successful organizations do this very poorly because it happens not very often and people forget very quickly about it after they leave the onboarding stage. But do try to systematize it, either in the form of tutorials/documents/scripts or something that will make this as painless as possible.
+
+And if you were successful with doing documentation, then onboarding should simply be a matter of passing on links included with a few good face-to-face seessions answering any of the questions arisen from reading the documentation.  
+
+####Institutional Knowledge Management####
 
 Part of building your culture and domain-expertise also includes creating artifacts that document that gained knowledge. An organization is only effective if two people don't have to do the same work twice and two people don't have to do the same work twice if one person teaches the other one so the second one doesn't have to learn it all over by himself again. As one of my CTO's used to say "A team's progress is measured by how much the collective team has learned in a specific time period"
 
 Especially for software teams, GOOD documentation is not emphasized enough. Utilize wikis, shared documents to pass on this knowledge. It's good for passing on knowledge, but it's also good for reminding yourself why you went down a specific path. Our working memory set is smaller than you think it would be. 
 
-###Onboarding###
-
-Even very successful organizations do this very poorly because it happens not very often and people forget very quickly about it after they leave the onboarding stage. But do try to systematize it, either in the form of tutorials/documents/scripts or something that will make this as painless as possible.
-
-And if you were successful with doing documentation, then onboarding should simply be a matter of passing on links included with a few good face-to-face seessions answering any of the questions arisen from reading the documentation.  
-##Software Teams Specific##
+####Software Teams Specific####
 
 These are topics that you should investigate in more detail to help you run your team more smoothly
 
-Automated Testing/Continuous Integration
-Version Control System
-Project management tools/Issue trackers
-Framework/Libraries
-Designer(front-end)/Dev(back-end) separation.
-Documentation
-
-Agile Framework(Sprints)
+* Automated Testing/Continuous Integration
+* Version Control System
+* Project management tools/Issue trackers
+* Framework/Libraries
+* Designer(front-end)/Dev(back-end) separation.
+* Documentation
+* Agile Framework(Sprints)
 
 ##And Beyond##
+
+###Communication###
+
+Be fair. Praise only when necessary but never criticize. Give objective assessments on the work that was done, but instead of saying that this was bad, give constructive criciticsm on how to make it even better. It's hard to not be snarky in these situations, because you may/will feel a clear sense of superiority. But put yourself in the shoes of the receiving end before saying anything like that. People sense condescension very well, amazingly well. 
 
 ###Firing###
 
