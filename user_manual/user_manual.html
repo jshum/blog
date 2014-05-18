@@ -1,0 +1,128 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><link rel="stylesheet" id="theme" href="github_css.css"></head><body><h1>Zanhealth</h1>
+<hr>
+<ol>
+<li><h3><a href="#one">Work Orders</a></h3>
+<ul>
+<li><a href="#1.A">A. Work Order List</a></li>
+<li><a href="#1.B">B. Work Order Overview</a><!--
+ *  [C. Details](#1.C)
+ *  [D. Comments](#1.D)
+ *  [E. Cost](#1.E)
+ *  [F. Labor Hours](#1.F)
+--></li>
+</ul>
+</li>
+<li><h3><a href="#two">Preventative Maintenance</a></h3>
+<ul>
+<li><a href="#2.B">Preventative Maintenance Details</a></li>
+</ul>
+</li>
+<li><h3><a href="#three">Work Requests</a></h3>
+</li>
+<li><h3><a href="#four">Dashboard</a></h3>
+ <!--
+ *  [A. Statuses](#4.1)
+ *  [B. Finances](#4.2)
+ *  [C. Labor Hours](#4.3)
+ --></li>
+<li><h3><a href="#five">Data Input/Output</a></h3>
+</li>
+<li><h3><a href="#six">Managing Views</a></h3>
+<ul>
+<li><a href="#6.A">A. Search, Filter, and Sort</a></li>
+<li><a href="#6.B">B. Archive</a></li>
+</ul>
+</li>
+<li><h3><a href="#seven">Language</a></h3>
+</li>
+</ol>
+<h2><a id="one"></a> Work Orders</h2>
+<p>The work order is the basic unit of Zanhealth's function. The work order page is where users can see what repairs need to be made, along with all relevant information for the item and repair. To add a work order, click the "+" button in the upper right corner.</p>
+<p><img src="work_orders.png" alt="Overview"></p>
+<h3><a id="1.A"></a> A. Work Order List</h3>
+<p>This is a list containing basic information on each work order. By default, work orders are sorted by date, with the soonest date appearing earliest. <a href="#6.A">(Sort work orders.)</a> Clicking on a work order will open <a href="#1.B">a more detailed view.</a></p>
+<p>The color tag on the left side indicates status.</p>
+<ul>
+<li><font color="#006300"> Green = completed </font></li>
+<li><font color="FFCC00"> Yellow = started </font></li>
+<li><font color="red"> Red = not started/expired </font>
+
+</li>
+</ul>
+<h3><a id="1.B"></a> B. Work Order Overview</h3>
+<p>Each work order has lots of useful information associated with it. The status, owner, department, expiration date, and description can be toggled upon clicking. The most useful of these will most likely be the status, which can change between "Started", "Unstarted", and "Completed." Saving changes will cause the status in the overview list (i.e. color) to automatically update. </p>
+<p><img src="changing_work_request_status.png" alt="Changing work request status" title="Changing work request status"></p>
+<p><em>Example: changing work request status.</em></p>
+<h4>The interfaces of (C), (D), (E), and (F) allow the user to view and edit even more detailed information:</h4>
+<h4><a id="1.C"></a> C. Details</h4>
+<p>By clicking <img src="details_icon.png" alt="details icon">, a user can view the details on cause, action, and prevention. These can be easily updated by editing and hitting "Save changes".</p>
+<p><img src="details.png" alt="Details"></p>
+<p><em>Example: Editing action taken.</em></p>
+<h4><a id="1.D"></a> D. Comments</h4>
+<p>Clicking <img src="comments_icon.png" alt="comments icon"> will bring up a log of technician comments. New comments can be added by typing in the bottom text box and hitting the "&gt;" button (highlighted in red).</p>
+<p><img src="comments.png" alt="Comments"></p>
+<p><em>Example: Adding comment 3 to comments 1 and 2.</em></p>
+<h4><a id="1.E"></a> E. Cost</h4>
+<p>The cost view can be accessed by clicking <img src="cost_icon.png" alt="cost icon">. You can view and update the cost of a repair by adding the necessary items. </p>
+<p><img src="cost.png" alt="Cost"></p>
+<p><em>Example: Adding the cost of screws to the cost of this repair.</em></p>
+<h4><a id="1.F"></a> F. Labor Hours</h4>
+<p>The total number of hours a repair has been worked on, broken down by technician, can be accessed by clicking <img src="LH_icon.png" alt="LH_icon">. The individual technician, date, and number of hours worked can be edited and saved.</p>
+<p><img src="labor_hours.png" alt="Labor Hours"></p>
+<p><em>Example: Adding UserAHE2's 5 hours to the total time of this repair.</em></p>
+<h2><a id="two"></a> Preventative Maintenance</h2>
+<p>Preventative maintenance refers to regularly scheduled maintenance routines that recur at set intervals. The list on the left works in a similar way to the <a href="#1.A">work order list</a>. The preventative maintenance list is sorted by due date, with the maintenance routine with the soonest due date appearing first.</p>
+<h3><a id="2.B"></a> Preventative Maintenance Request Details</h3>
+<p>Clicking on a specific maintenance request will bring up the following interface:</p>
+<p><img src="preventative_maintenace.png" alt="Preventative Maintenance"></p>
+<h3>A. Action Bar</h3>
+<p>Convert and hide are the most important actions for a work request.</p>
+<p><strong>Convert</strong> converts this preventative maintenance request into a work request, thereby putting it into the work pipeline. That is, if a maintenance request is not converted, it will remain in the preventative maintenance list, but will not show up as a work request. Pressing convert brings up a dialog that prompts the user for information: "Cause Description" must be filled out.</p>
+<p><strong>Hide</strong> <a href="#6.B">archives</a> this preventative maintenance request.</p>
+<h3>B. Set recur time</h3>
+<p>Toggle the prompts to set how often you want the preventative maintenance request to recur.</p>
+<h2><a id="three"></a> Work Requests</h2>
+<p>A work request is the precursor to a work order. Work requests must be approved before they are cleared to become work orders. The interface for work requests works almost exactly the same way as <a href="#two">preventative maintenance</a>; again, this can be done with <strong>Convert to Work Order</strong>. </p>
+<p>Work requests can be sorted by either requester or department (both in alphabetical order).</p>
+<h2><a id="four"></a> Dashboard</h2>
+<p>The <strong>Dashboard</strong> provides analytics on three crucial logistical areas:</p>
+<h3><a id="4.1"></a> Statuses</h3>
+<p>Make chartz</p>
+<h3><a id="4.2"></a> Finances</h3>
+<p>More chartz</p>
+<h3><a id="4.3"></a> Labor Hours</h3>
+<p>Chartz on chartz on chartz</p>
+<h2><a id="five"></a> Data Input/Output</h2>
+<p>Data input and output is managed by the gray bar the top of the screen.</p>
+<p><img src="data_bar.png" alt="data bar"></p>
+<h4>Data Input</h4>
+<p>The <img src="plus.png" alt="plus"> icon allows a user to create a single instance of the current view (work order, preventative maintenance, or work request).</p>
+<p>Soon to come will be an <em>*Import Data</em> button that allows the user to upload an <code>.csv</code> spreadsheet of equipment.</p>
+<h4>Data Output</h4>
+<p>The <strong>Print</strong> icon allows the user to print a data spreadsheet of the current view. </p>
+<p>The <strong>Export Data</strong> icon offers the same functionality as <strong>Print</strong>, but allows the user to download a <code>.csv</code> version of the spreadsheet. </p>
+<h2><a id="six"></a> Managing Views</h2>
+<p>Views can be managed by the gray bar at the top of the screen. </p>
+<p><img src="views_bar.png" alt="views bar"></p>
+<h3><a id="6.A"></a> Search, Filter, and Sort</h3>
+<p><strong>Filter</strong> only displays the work requests that fit certain criteria: it can be used to filter work orders by status. <strong>Filter</strong> is unique to the work request menu.</p>
+<p><strong>Sort</strong> orders the work requests by one of the following criteria:</p>
+<ul>
+<li>Date Created</li>
+<li>Date Started</li>
+<li>Requester</li>
+<li>Owner </li>
+<li>Status</li>
+</ul>
+<p><strong>Search</strong> returns the work requests that have a match with the query string.</p>
+<h3><a id="6.B"></a> Archive</h3>
+<p>Orders and requests in Zanhealth are either <strong>visible</strong> or <strong>hidden</strong>. A hidden request/order is archived; it is either irrelevant, denied, or completed.</p>
+<p>A <strong>work order</strong> can be archived by clicking on the archive icon.</p>
+<p><img src="archive_view.png" alt="archive icon"></p>
+<p><strong>Preventative maintenance requests</strong> and <strong>work requests</strong> can be archived by clicking the hide button in the detailed dialog box.</p>
+<p><img src="hide.png" alt="hide"></p>
+<p>An archived item can be <strong>unarchived</strong> by performing the same action as hiding. In the case of requests, "unhide" will take the place of "hide".</p>
+<p><img src="unhide.png" alt="unhide"></p>
+<h2><a id="seven"></a> Language</h2>
+<p>Language can be toggled by using the buttons under <strong>Dashboard</strong>. Currently available languages include English, Swahili, and Creole.</p>
+</body></html>
